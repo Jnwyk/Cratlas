@@ -1,5 +1,5 @@
-import BasicInfo from "./BasicInfo";
 import tempImg from "../assets/jura-krakowsko-czestochowska.jpg";
+import BasicDetailList from "./BasicDetailList";
 
 function Card() {
   return (
@@ -15,7 +15,7 @@ function Card() {
       />
       <div id="list-card-information">
         <h4 id="list-card-header">Jura Krakowsko-Częstochowska</h4>
-        <BasicInfo />
+        <BasicDetailList />
         <p id="list-card-desctiption" className="m-0.5 text-xs text-stone-700">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis
           ullam voluptate eaque? Facilis impedit quisquam veritatis nulla ea id
