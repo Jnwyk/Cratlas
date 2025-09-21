@@ -2,10 +2,9 @@ import Card from "./Card";
 
 interface CardLList {
   crags: number[];
-  pagination?: number;
 }
 
-function CardList({ crags, pagination }: CardLList) {
+function CardList({ crags }: CardLList) {
   return (
     <div className="flex flex-col">
       {crags.map((crag) => (
