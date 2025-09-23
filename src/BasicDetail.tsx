@@ -1,6 +1,7 @@
 import { GiStonePile } from "react-icons/gi";
 import { GiRoundStar } from "react-icons/gi";
 import { FaLocationDot } from "react-icons/fa6";
+import type { ReactNode } from "react";
 
 interface BasicDetail {
   detailName: string;
@@ -8,7 +9,7 @@ interface BasicDetail {
 }
 
 function BasicDetail({ detailName, value }: BasicDetail) {
-  const specifyIcon = () => {
+  const specifyIcon = (): ReactNode => {
     if (detailName === "location") return <FaLocationDot />;
     else if (detailName === "rock") return <GiStonePile />;
     else return <GiRoundStar />;
