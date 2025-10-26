@@ -1,15 +1,20 @@
 import Card from "./Card";
+import type Crag from "../types/crag.interface";
 
 interface CardLList {
-  crags: number[];
-  pagination?: number;
+  crags: Array<Crag>;
 }
 
-function CardList({ crags, pagination }: CardLList) {
+function CardList({ crags }: CardLList) {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col w-[75%] mt-16">
       {crags.map((crag) => (
-        <Card key={crag} />
+        <Card
+          key={crag.id}
+          name={crag.name}
+          photoUrl={crag.photoUrl[0]}
+          description={crag.description}
+        />
       ))}
     </div>
   );

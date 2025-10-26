@@ -1,0 +1,322 @@
+[
+  {
+    "id": 101,
+    "name": "Kalymnos",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/22/Kalymnos_climbing.jpg",
+      "https://www.theclimbingschool.com/wp-content/uploads/2021/04/kalymnos-tufa-wall.jpg",
+      "https://27crags.com/images/areas/kalymnos/kalymnos-climbing-wall-1.jpg",
+      "https://adventure.com/wp-content/uploads/2024/12/kalymnos-rock-climbing-town-greece-1.jpg"
+    ],
+    "country": "Greece",
+    "material": "limestone",
+    "specification": "tufas and pockets",
+    "climbingStyle": ["sport"],
+    "rating": 9.5,
+    "description": "World-class sport climbing destination with thousands of bolted routes on steep tufa limestone overlooking the Aegean Sea."
+  },
+  {
+    "id": 102,
+    "name": "Margalef",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Margalef_climbing_rock.jpg",
+      "https://rockbusters.net/wp-content/uploads/2020/06/margalef-crag-spain.jpg",
+      "https://www.thewanderingclimber.com/wp-content/uploads/2020/06/margalef-raco-de-les-espadelles.jpg",
+      "https://27crags.com/images/areas/margalef/margalef-climbing-1.jpg"
+    ],
+    "country": "Spain",
+    "material": "conglomerate",
+    "specification": "pocketed walls",
+    "climbingStyle": ["sport"],
+    "rating": 9.0,
+    "description": "Catalonian crag famous for pocketed conglomerate cliffs and a wide range of hard sport routes."
+  },
+  {
+    "id": 103,
+    "name": "Fontainebleau",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Fontainebleau_boulders.jpg",
+      "https://57hours.com/wp-content/uploads/2023/04/fontainebleau-sandstone-bouldering.jpg",
+      "https://27crags.com/images/areas/fontainebleau/forest-bleau-boulders.jpg",
+      "https://i.imgur.com/FontaineBleauClimb.jpg"
+    ],
+    "country": "France",
+    "material": "sandstone",
+    "specification": "boulders and slabs",
+    "climbingStyle": ["bouldering"],
+    "rating": 8.5,
+    "description": "Historic bouldering paradise with thousands of sandstone blocs scattered through the forest near Paris."
+  },
+  {
+    "id": 104,
+    "name": "Dinas Cromlech",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dinas_Cromlech_open_book.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/Dinas_y_Gromlech_climbing.jpg",
+      "https://www.ukclimbing.com/logbook/crags/dinas_cromlech-4/files/DinasCromlech1.jpg",
+      "https://i.imgur.com/dinas_cromlech_climb2.jpg"
+    ],
+    "country": "Wales, UK",
+    "material": "rhyolite",
+    "specification": "steep traditional faces",
+    "climbingStyle": ["trad"],
+    "rating": 8.0,
+    "description": "Classic Welsh trad crag in Llanberis Pass with steep rhyolite walls and historic test pieces."
+  },
+  {
+    "id": 105,
+    "name": "Ailladie",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/de/Ailladie_cliff_Ireland.jpg",
+      "https://i.imgur.com/ailladie_climbing_wall.jpg",
+      "https://www.ukclimbing.com/logbook/crags/ailladie-2638/files/Ailladie1.jpg",
+      "https://i.imgur.com/ailladie_coast_climb2.jpg"
+    ],
+    "country": "Ireland",
+    "material": "limestone",
+    "specification": "sea cliffs",
+    "climbingStyle": ["trad"],
+    "rating": 7.5,
+    "description": "Impressive sea-cliff limestone crag on the west coast of Ireland offering bold and exposed trad lines."
+  },
+  {
+    "id": 106,
+    "name": "Harrison’s Rocks",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Harrison%27s_Rocks_sandstone_crag.jpg",
+      "https://i.imgur.com/harrisons_rocks_toprope.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/HarrisonsRocks_climbers.jpg",
+      "https://i.imgur.com/harrisonsrocks_base.jpg"
+    ],
+    "country": "England, UK",
+    "material": "sandstone",
+    "specification": "soft, fragile faces",
+    "climbingStyle": ["top rope", "bouldering"],
+    "rating": 6.5,
+    "description": "Soft sandstone formations suitable for top-roping and short problems; protected climbing tradition."
+  },
+  {
+    "id": 107,
+    "name": "Windgather Rocks",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Windgather_Rocks_gritstone.jpg",
+      "https://i.imgur.com/windgatherrocks_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Windgather_Rocks_south_face.jpg",
+      "https://i.imgur.com/windgatherrocks_climb2.jpg"
+    ],
+    "country": "England, UK",
+    "material": "gritstone",
+    "specification": "cracks and slabs",
+    "climbingStyle": ["trad"],
+    "rating": 6.0,
+    "description": "Popular beginner-friendly gritstone crag offering solid crack and slab climbing with easy access."
+  },
+  {
+    "id": 108,
+    "name": "Dolomites",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/Dolomites_climbing_wall.jpg",
+      "https://i.imgur.com/dolomites_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/70/Dolomites_rock_climbing_route.jpg",
+      "https://i.imgur.com/dolomites_climb2.jpg"
+    ],
+    "country": "Italy",
+    "material": "dolomite",
+    "specification": "towers and faces",
+    "climbingStyle": ["trad", "sport", "alpine"],
+    "rating": 8.2,
+    "description": "Expansive alpine climbing region offering thousands of routes on stunning dolomitic limestone towers."
+  },
+  {
+    "id": 109,
+    "name": "Costa Blanca",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8e/Costa_Blanca_climbing.jpg",
+      "https://i.imgur.com/costablanca_crag.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2a/Costa_Blanca_limestone_climbing.jpg",
+      "https://i.imgur.com/costablanca_route.jpg"
+    ],
+    "country": "Spain",
+    "material": "limestone",
+    "specification": "varied sport faces",
+    "climbingStyle": ["sport"],
+    "rating": 7.8,
+    "description": "Sunny coastal climbing area with a mix of steep and moderate sport routes on high-quality limestone."
+  },
+  {
+    "id": 110,
+    "name": "Jebel Jais",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jebel_Jais_climbing_UAE.jpg",
+      "https://i.imgur.com/jebeljais_climb.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/Jebel_Jais_route.jpg",
+      "https://i.imgur.com/jebeljais_wall2.jpg"
+    ],
+    "country": "United Arab Emirates",
+    "material": "limestone",
+    "specification": "rugged walls",
+    "climbingStyle": ["trad", "sport"],
+    "rating": 7.0,
+    "description": "Adventure climbing on desert limestone walls with long routes and a wild, remote feel."
+  },
+  {
+    "id": 111,
+    "name": "Patagonia",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/Patagonia_climbing_spires.jpg",
+      "https://i.imgur.com/patagonia_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Rock_climbing_patagonia.jpg",
+      "https://i.imgur.com/patagonia_climb2.jpg"
+    ],
+    "country": "Argentina / Chile",
+    "material": "granite",
+    "specification": "big alpine spires",
+    "climbingStyle": ["alpine", "trad"],
+    "rating": 8.8,
+    "description": "Remote granite spires in the southern Andes; demanding alpine routes with epic scenery and conditions."
+  },
+  {
+    "id": 112,
+    "name": "Yosemite Valley",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3c/Yosemite_El_Capitan_climb.jpg",
+      "https://i.imgur.com/yosemite_wall1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Yosemite_climbing_route.jpg",
+      "https://i.imgur.com/yosemite_climb2.jpg"
+    ],
+    "country": "United States",
+    "material": "granite",
+    "specification": "big walls and cracks",
+    "climbingStyle": ["trad", "aid", "bouldering"],
+    "rating": 9.3,
+    "description": "The birthplace of big-wall climbing; world-famous granite cliffs like El Capitan and Half Dome."
+  },
+  {
+    "id": 113,
+    "name": "Tonsai Bay",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tonsai_beach_climbing_thailand.jpg",
+      "https://i.imgur.com/tonsai_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Climbing_tonsai_wall.jpg",
+      "https://i.imgur.com/tonsai_climb2.jpg"
+    ],
+    "country": "Thailand",
+    "material": "limestone",
+    "specification": "tufas and overhangs",
+    "climbingStyle": ["sport", "deep-water solo"],
+    "rating": 8.0,
+    "description": "Tropical limestone cliffs above the sea offering bolted routes and deep-water soloing adventures."
+  },
+  {
+    "id": 114,
+    "name": "Siurana",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Siurana_climbing_crag.jpg",
+      "https://i.imgur.com/siurana_wall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/Siurana_route.jpg",
+      "https://i.imgur.com/siurana_climb2.jpg"
+    ],
+    "country": "Spain",
+    "material": "limestone",
+    "specification": "steep pocketed walls",
+    "climbingStyle": ["sport"],
+    "rating": 8.7,
+    "description": "World-class sport climbing destination in Catalonia known for technical and steep pocketed routes."
+  },
+  {
+    "id": 115,
+    "name": "Rodellar",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rodellar_climbing_gorge.jpg",
+      "https://i.imgur.com/rodellar_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/Rodellar_route.jpg",
+      "https://i.imgur.com/rodellar_climb2.jpg"
+    ],
+    "country": "Spain",
+    "material": "limestone",
+    "specification": "tufas and caves",
+    "climbingStyle": ["sport"],
+    "rating": 8.6,
+    "description": "Impressive limestone gorge in the Pyrenees with steep, athletic climbing through massive tufas."
+  },
+  {
+    "id": 116,
+    "name": "Frankenjura",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/Frankenjura_climbing_germany.jpg",
+      "https://i.imgur.com/frankenjura_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9d/Frankenjura_wall.jpg",
+      "https://i.imgur.com/frankenjura_climb2.jpg"
+    ],
+    "country": "Germany",
+    "material": "limestone",
+    "specification": "pockets and short walls",
+    "climbingStyle": ["sport"],
+    "rating": 8.1,
+    "description": "Huge German climbing area famous for pocketed limestone routes and rich climbing history."
+  },
+  {
+    "id": 117,
+    "name": "Kyparissi",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kyparissi_climbing_greece.jpg",
+      "https://i.imgur.com/kyparissi_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kyparissi_tufa_wall.jpg",
+      "https://i.imgur.com/kyparissi_climb2.jpg"
+    ],
+    "country": "Greece",
+    "material": "limestone",
+    "specification": "tufas and vertical faces",
+    "climbingStyle": ["sport"],
+    "rating": 7.9,
+    "description": "Modern seaside limestone climbing area with excellent tufas and fewer crowds than Kalymnos."
+  },
+  {
+    "id": 118,
+    "name": "Paklenica",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Paklenica_climbing_canyon.jpg",
+      "https://i.imgur.com/paklenica_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7b/Paklenica_route.jpg",
+      "https://i.imgur.com/paklenica_climb2.jpg"
+    ],
+    "country": "Croatia",
+    "material": "limestone",
+    "specification": "canyon walls",
+    "climbingStyle": ["sport", "trad", "multi-pitch"],
+    "rating": 8.0,
+    "description": "Croatia’s top climbing area featuring long limestone walls with sport and multi-pitch options."
+  },
+  {
+    "id": 119,
+    "name": "Arco / Sarca Valley",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Arco_climbing_trentino.jpg",
+      "https://i.imgur.com/arco_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4a/Climbing_arco_valley.jpg",
+      "https://i.imgur.com/arco_climb2.jpg"
+    ],
+    "country": "Italy",
+    "material": "limestone",
+    "specification": "slabs and overhangs",
+    "climbingStyle": ["sport", "multi-pitch"],
+    "rating": 8.3,
+    "description": "Northern Italy’s classic limestone climbing area offering everything from sport to multi-pitch routes."
+  },
+  {
+    "id": 120,
+    "name": "Val di Mello",
+    "photoUrl": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/48/Val_di_Mello_climbing.jpg",
+      "https://i.imgur.com/valdimello_climb1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9e/Val_Masino_route.jpg",
+      "https://i.imgur.com/valmasino_climb2.jpg"
+    ],
+    "country": "Italy",
+    "material": "granite",
+    "specification": "slabs and cracks",
+    "climbingStyle": ["trad", "bouldering"],
+    "rating": 7.7,
+    "description": "Scenic alpine valley with smooth granite slabs, crack lines, and a peaceful natural atmosphere."
+  }
+]
