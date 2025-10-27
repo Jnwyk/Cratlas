@@ -1,12 +1,12 @@
 import CardList from "./CardList";
 import SearchBar from "./SearchBar";
-import crags from "../data/crags.json";
-import type Filters from "../types/filters.interface";
-import type Crag from "../types/crag.interface";
-import filterCrags from "./utils/filterCrags";
+import crags from "../../data/crags.json";
+import type Filters from "../../types/filters.interface";
+import type Crag from "../../types/crag.interface";
+import filterCrags from "../utils/filterCrags";
 import { useEffect, useReducer, useState } from "react";
 import Pagination from "./Pagination";
-import { paginationReducer } from "./reducers/paginationReducer";
+import { paginationReducer } from "../reducers/paginationReducer";
 
 function Main() {
   const [filteredCrags, setFilteredCrags] = useState<Array<Crag>>(crags);

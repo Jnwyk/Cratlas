@@ -1,5 +1,5 @@
 import Button from "./UI/Button";
-import Logo from "../assets/climbing-4-svgrepo-com.svg";
+import Logo from "../../assets/climbing-4-svgrepo-com.svg";
 import { useEffect, useState } from "react";
 
 function Header() {

@@ -1,7 +1,7 @@
 import { useState, type FormEvent } from "react";
 import TextInput from "./UI/TextInput";
 import Button from "./UI/Button";
-import type Filters from "../types/filters.interface";
+import type Filters from "../../types/filters.interface";
 
 interface SearchBarProps {
   handleFilterFormSubmit(filterValues: Filters): void;

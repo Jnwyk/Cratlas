@@ -1,5 +1,5 @@
 import Card from "./Card";
-import type Crag from "../types/crag.interface";
+import type Crag from "../../types/crag.interface";
 
 interface CardLList {
   crags: Array<Crag>;

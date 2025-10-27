@@ -1,7 +1,7 @@
 import PaginationNumber from "./UI/PaginationNumber";
 import PaginationSymbol from "./UI/PaginationSymbol";
-import { type Action } from "./reducers/paginationReducer";
-import setPaginationArray from "./utils/setPaginationArray";
+import { type Action } from "../reducers/paginationReducer";
+import setPaginationArray from "../utils/setPaginationArray";
 
 interface PaginationProps {
   currentPage: number;
